@@ -1,6 +1,6 @@
 {
-  "name": "Projeto Fênix - Planner 2026",
-  "short_name": "Fênix 2026",
+  "name": "Projeto Fênix - Planner Diário",
+  "short_name": "Fênix Planner",
   "description": "Diário de renascimento e autodescoberta feminina.",
   "start_url": "./index.html",
   "display": "standalone",
