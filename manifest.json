@@ -1,0 +1,23 @@
+
+{
+  "name": "Projeto Fênix - Planner 2026",
+  "short_name": "Fênix 2026",
+  "description": "Diário de renascimento e autodescoberta feminina.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fdfbf7",
+  "theme_color": "#c67b5c",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2919/2919702.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2919/2919702.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
